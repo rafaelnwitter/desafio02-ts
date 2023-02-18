@@ -3,7 +3,7 @@ import './Header.css'
 export const Header  = () => {
   return(
     <div className='header'>
-      Dio Bank
+      <h1>Dio Bank</h1>
     </div>
   )
 }

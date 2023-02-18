@@ -1,3 +1,10 @@
 .header {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding: 1em;
     background-color: orange;
+    color: #060606;
 }
